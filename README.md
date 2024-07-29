@@ -9,6 +9,6 @@ It can be used by live score broadcasting websites to show the playing team memb
 # What are the benefits of using it ?
 It provides a better UI for users and is also helpful for people with low vision or those who cannot read. This feature can attract more users.
 
-# Tech Stacks Used
+# Tech Stacks
 The entire landing page is created using HTML and CSS only. HTML is used for the textual parts, while CSS is used for colors, backgrounds, hover effects, and cards.
 
